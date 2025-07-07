@@ -3,6 +3,9 @@ a = 5
 
 b = 2
 
+c = 'A'
+print(type(c))
+
 #arithmetic operators
 print(a ** b) #a^b
 
